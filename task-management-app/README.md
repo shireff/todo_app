@@ -24,7 +24,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd todo-app-client
+cd task-management-app
 ```
 
 2. Install dependencies:
