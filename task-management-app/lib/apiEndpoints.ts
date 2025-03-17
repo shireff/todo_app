@@ -1,0 +1,17 @@
+export enum ApiEndpoints {
+  AUTH_REGISTER = "/auth/register",
+  AUTH_LOGIN = "/auth/login",
+  USER_PROFILE = "/users/profile",
+  USER_PROFILE_UPDATE = "/users/profile",
+  USER_PROFILE_UPLOAD = "users/profile/upload",
+  USER_LINKEDIN_SCRAPE = "/users/linkedin/scrape",
+  CATEGORIES = "/categories",
+  CATEGORY_CREATE = "/categories",
+  CATEGORY_UPDATE = "/categories/",
+  CATEGORY_DELETE = "/categories/",
+  TASKS = "/tasks",
+  TASK_CREATE = "/tasks",
+  TASK_UPDATE = "/tasks/",
+  TASK_UPDATE_STATUS = "/tasks/",
+  TASK_DELETE = "/tasks/",
+}
