@@ -60,12 +60,7 @@ npm install
 
 ### 4. Database Setup
 
-Ensure MongoDB is running on your system. The application will automatically create the required collections.
-
-```bash
-# Start MongoDB (if not running as a service)
-mongod
-```
+This application uses MongoDB Atlas (Cloud MongoDB), so no local MongoDB instance is required.
 
 ### 5. Start the Development Server
 
